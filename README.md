@@ -1,3 +1,3 @@
-/* code for printf statement*/
+java code for basic concepts.
 
 
